@@ -1,8 +1,8 @@
 # Informasi
 
-- Tugas Asistensi
-- Dibuat oleh Darren.
-- Penjelasan setiap soal ada di Report.MD masing-masing.
+- Baca Readme.md dalam folder soal-1 untuk mengerti apa yang dikerjakan
+- kalau bingung bisa tanya langsung
 
 
-### Isi Nama / 5024241006
+
+### Isi Nama / Isi Nrp
